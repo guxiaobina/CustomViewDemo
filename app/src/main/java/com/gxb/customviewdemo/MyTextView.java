@@ -17,6 +17,7 @@ public class MyTextView extends View {
     private String drawText="";
     private int textColor;
     private float textSize;
+    //前端更改
     public MyTextView(Context context) {
         super(context);
         initAttrs(null);
