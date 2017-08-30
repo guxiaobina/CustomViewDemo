@@ -12,6 +12,7 @@ import android.view.View;
  * Created by g on 2017/8/30.
  */
 
+//后台更改
 public class MyTextView extends View {
     private String drawText="";
     private int textColor;
